@@ -1,0 +1,15 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.num_rng{
+    padding: 50px;
+    font-size: 50px;
+}
+
+.timer{
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
